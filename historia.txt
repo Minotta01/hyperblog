@@ -1,4 +1,5 @@
 esta es una historia 
 de como usar git de forma profecional 
 aqui estuvo titterito
+estoy probrando que si edito aqui aparece los cambios en el otro repositorio
 dale que puedes sos la pipia 
