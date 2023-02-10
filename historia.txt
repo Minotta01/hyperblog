@@ -3,3 +3,5 @@ de como usar git de forma profecional
 aqui estuvo titterito realizando pruebas 
 antes de hacer un merges o pull merges con la rama principal, debo hacer una rama de prueba para realizar los cambios pertinetes y solitad revicion 
 dale que puedes sos la pipia 
+
+master 1
